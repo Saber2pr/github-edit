@@ -1,4 +1,4 @@
-# github-edit
+# @saber2pr/github-edit
 
 > Github Content CURD API.
 
