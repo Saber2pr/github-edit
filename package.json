@@ -1,6 +1,6 @@
 {
   "name": "@saber2pr/github-edit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Github Content CURD API.",
   "repository": {
     "type": "git",
