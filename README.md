@@ -3,7 +3,7 @@
 > Github Content CURD API.
 
 ```bash
-yarn add github-edit
+yarn add @saber2pr/github-edit
 ```
 
 # Example
