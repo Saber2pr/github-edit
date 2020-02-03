@@ -6,7 +6,8 @@ import {
   removeFile,
   readFile,
   request,
-  KEYS
+  KEYS,
+  getCommit
 } from ".."
 
 async function main() {}

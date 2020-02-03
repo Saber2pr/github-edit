@@ -15,7 +15,8 @@ import {
   getContentTree,
   createFile,
   removeFile,
-  readFile
+  readFile,
+  getCommit
 } from "@saber2pr/github-edit"
 
 // 1. login
@@ -33,7 +34,10 @@ removeFile(repo, path, commit)
 // 5. readFile
 readFile(repo, path)
 
-// 6. unLogin
+// 6. get Commit Info
+getCommit(repo, path)
+
+// 7. unLogin
 unLogin()
 ```
 

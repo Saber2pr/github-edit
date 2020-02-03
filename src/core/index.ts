@@ -1,5 +1,6 @@
 export * from './KEYS'
 export * from './createFile'
+export * from './getCommit'
 export * from './getContentTree'
 export * from './login'
 export * from './readFile'
