@@ -7,7 +7,8 @@ import {
   readFile,
   request,
   KEYS,
-  getCommit
+  getCommit,
+  getSha
 } from ".."
 
 async function main() {}
