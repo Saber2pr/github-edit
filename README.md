@@ -16,7 +16,8 @@ import {
   createFile,
   removeFile,
   readFile,
-  getCommit
+  getCommit,
+  getSha
 } from "@saber2pr/github-edit"
 
 // 1. login
