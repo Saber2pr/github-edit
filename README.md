@@ -37,7 +37,10 @@ readFile(repo, path)
 // 6. get Commit Info
 getCommit(repo, path)
 
-// 7. unLogin
+// 7. get sha
+getSha(repo, path)
+
+// 8. unLogin
 unLogin()
 ```
 
